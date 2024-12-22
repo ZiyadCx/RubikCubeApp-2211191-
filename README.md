@@ -1,2 +1,6 @@
-# RubikCubeApp-2211191-
-Assignment 3 ( Rubik Cube 2x2 )
+# Assignment 2: Play with a 2x2 Rubik Cube
+by 
+
+**NAME:MUHAMMAD ZIYAD FATHULLAH BIN MOHD YAZID**
+
+**Matric ID : 2211191**
